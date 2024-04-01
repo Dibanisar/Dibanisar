@@ -16,6 +16,8 @@
 - 🔭 I’m currently doing my **Masters In Data Science and Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning in Python and R**
+  
+-  🌱 I’m currently looking for a role for **Junior Data Analyst or Data Analytics Internship**
 
 - 👯 I’m looking to collaborate on **Data Analysis and ML Projects**
 
