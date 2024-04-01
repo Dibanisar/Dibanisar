@@ -19,7 +19,7 @@
   
 -  🌱 I’m currently looking for a role for **Junior Data Analyst or Data Analytics Internship**
 
-- 👯 I’m looking to collaborate on **Data Analysis and ML Projects**
+- 👯 I’m also looking to collaborate on **Data Analysis and ML Projects**
 
 - 💬 Ask me about **R, SQL, PYTHON, POWER BI, EXCEL**
 
