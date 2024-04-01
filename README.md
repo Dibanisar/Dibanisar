@@ -12,9 +12,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dibanisar&label=Profile%20views&color=0e75b6&style=flat" alt="dibanisar" /> </p>
 
-- 🔭 I’m currently working on **AdventureWorks DB with SQL**
+- 🔭 I’m currently doing my **Masters In Data Science and Machine Learning**
 
-- 🌱 I’m currently learning **Machine Learning in Python**
+- 🌱 I’m currently learning **Machine Learning in Python and R**
 
 - 👯 I’m looking to collaborate on **Data Analysis and ML Projects**
 
