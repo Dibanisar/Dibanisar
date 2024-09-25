@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi Welcome To My Github👋, I'm Dibanisa Fakude</h1>
-<h3 align="center">A passionate Data Analyst From South Africa</h3>
+<h3 align="center">A passionate Data Scientist From South Africa</h3>
 <h3 align="center">"DATA IS THE NEW OIL"</h3>
 <img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
