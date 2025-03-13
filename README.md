@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **Machine Learning in Python and R**
   
--  🌱 I’m currently looking for a role for **Junior Data Analyst or Data Analytics Internship**
+-  🌱 I’m currently working as a **Junior Data Scientist**
 
-- 👯 I’m also looking to collaborate on **Data Analysis and ML Projects**
+- 👯 I’m also looking to collaborate on **NLP, LLM and ML Projects**
 
 - 💬 Ask me about **R, SQL, PYTHON, POWER BI, EXCEL**
 
